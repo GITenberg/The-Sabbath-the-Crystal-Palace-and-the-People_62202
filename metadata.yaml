@@ -1,0 +1,26 @@
+_repo: The-Sabbath-the-Crystal-Palace-and-the-People_62202
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Brown, James Baldwin
+    aliases:
+    - Brown, Baldwin
+    - Brown, J. Baldwin (James Baldwin)
+    birthdate: 1820
+    deathdate: 1884
+    gutenberg_agent_id: '36448'
+    url: http://www.gutenberg.org/2009/agents/36448
+    wikipedia: http://en.wikipedia.org/wiki/James_Baldwin_Brown
+description: ''
+gutenberg_issued: '2020-05-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62202'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Sabbath, the Crystal Palace, and the People
+url: http://www.gutenberg.org/ebooks/62202
